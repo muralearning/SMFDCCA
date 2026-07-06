@@ -6,7 +6,7 @@ This repository accompanies the baseline **ρSMFDCCA** paper. It contains the ma
 
 ρSMFDCCA is a coefficient designed to quantify the cross-correlation between two non-stationary time series across multiple timescales and fluctuation orders, maintaining information about the sign of the correlation.
 
-This v1.0 release is explicitly focused on providing a stable, mathematically frozen, and reproducible baseline implementation. Advanced statistical inference—such as surrogate generation, Monte Carlo testing, Z-scores, p-values, multiple-testing correction, and significance visualization—is outside the scope of Version 1.0 and will be introduced in future extensions.
+This v1.0 release is explicitly focused on providing a stable, mathematically frozen, and reproducible baseline implementation.
 
 ## Installation
 
