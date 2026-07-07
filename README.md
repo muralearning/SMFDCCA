@@ -86,7 +86,7 @@ python plotting.py data/your_exported_data.csv
 If you use this code in your research, please cite the baseline ρSMFDCCA manuscript:
 
 ```bibtex
-@unpublished{Murari2026RobustQNegative,
+@misc{Murari2026RobustQNegative,
   author = {Murari, Thiago B. and
             Mendes, José Fernando F. and
             Pereira, Hernane B. B. and
