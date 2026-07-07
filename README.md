@@ -92,7 +92,7 @@ If you use this code in your research, please cite the baseline ρSMFDCCA manusc
             Pereira, Hernane B. B. and
             Moret, Marcelo A.},
   title = {Robust q-negative Multifractal Detrended Cross-Correlation Coefficient},
-  note = {Manuscript submitted to Physical Review Letters},
+  note = {Manuscript submitted to APS journals},
   year = {2026}
 }
 ```
