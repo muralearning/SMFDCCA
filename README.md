@@ -86,13 +86,13 @@ python plotting.py data/your_exported_data.csv
 If you use this code in your research, please cite the baseline ρSMFDCCA manuscript:
 
 ```bibtex
-@misc{Murari2026RobustQNegative,
-  author = {Murari, Thiago B. and
-            Mendes, José Fernando F. and
-            Pereira, Hernane B. B. and
-            Moret, Marcelo A.},
-  title = {Robust q-negative Multifractal Detrended Cross-Correlation Coefficient},
-  note = {Manuscript submitted to APS journals},
-  year = {2026}
+@misc{murari2026robustqnegativemultifractaldetrended,
+      title={Robust q-negative Multifractal Detrended Cross-Correlation Coefficient}, 
+      author={Thiago B. Murari and José Fernando F. Mendes and Hernane B. B. Pereira and Marcelo A. Moret},
+      year={2026},
+      eprint={2607.06324},
+      archivePrefix={arXiv},
+      primaryClass={cond-mat.stat-mech},
+      url={https://arxiv.org/abs/2607.06324}, 
 }
 ```
